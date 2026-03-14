@@ -7,35 +7,35 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gaole Dai (David)"
+title                    : "Baoqing Yue (岳葆青)"
 title_separator          : "-"
-subtitle                 : "AI X Life Science"
-name                     : "Gaole Dai"
-description              : "Gaole Dai is a PhD student at Peking University, referencing in AI for Life Science, NeuroAI, and Computer Vision."
-url                      : "https://daviddaiiiii.github.io"
+subtitle                 : "THUIR & FAITH Lab"
+name                     : "Baoqing Yue"
+description              : "Baoqing Yue is a PhD student at Tsinghua University, focusing on the foundation of frontier AI models and Information Retrieval."
+url                      : "https://ybq22.github.io"
 baseurl                  : ""
-repository               : "daviddaiiiii/daviddaiiiii.github.io"
+repository               : "ybq22/ybq22.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
-# SEO Related
-google_site_verification :  "-HHkCOcQIpvmfJpoaRSVyCsbm2-9oCE6TiZlzmxvl10"
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+# # SEO Related
+# google_site_verification :  "-HHkCOcQIpvmfJpoaRSVyCsbm2-9oCE6TiZlzmxvl10"
+# bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+# baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Gaole Dai"
+  name             : "Baoqing Yue"
   avatar           : "images/avatar.png"
-  og_image         : "images/profile.png"
+  og_image         : "images/profile.JPG"
   bio              : ""
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=2Of6xZUAAAAJ"
-  email            : "2201111765@stu.pku.edu.cn"
+  googlescholar    : https://scholar.google.com/citations?user=qdS8diQAAAAJ"
+  email            : "ybq22@mails.tsinghua.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,10 +44,10 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daviddaiiiii"
+  github           : "ybq22"
   google_plus      :
   keybase          :
-  instagram        : "chunnidvd"
+  instagram        : "ybq22"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # ""
